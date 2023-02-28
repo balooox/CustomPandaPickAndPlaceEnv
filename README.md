@@ -119,7 +119,7 @@ Success rate:
 
 #### Trained env for `PandaPickAndPlaceAndMove-v1`:
 
-![PandaPickAndPlaceAndMove-v1-trained](https://user-images.githubusercontent.com/7521492/221982916-968006d2-319b-466b-941b-6235f874ac71.gif)
+![PandaPickAndPlaceAndMove-v1-trained](https://user-images.githubusercontent.com/7521492/221985066-4f9ba9d9-ab32-4818-a1d1-13ddc745766f.gif)
 
 
 Mean reward:
