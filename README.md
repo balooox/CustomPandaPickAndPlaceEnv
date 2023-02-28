@@ -101,13 +101,35 @@ This custom environment was used for `PandaPickAndPlaceAndMove-v1` and `PandaPic
 
 ### Trained model 
 
-Trained env for `PandaPickAndPlaceAndThrow-v1`:
+#### Trained env for `PandaPickAndPlaceAndThrow-v1`:          
 
-![Bullet_Physics_PandaPickAndPlaceAndThrowTrained](https://user-images.githubusercontent.com/92969814/221651495-50b2c340-bdf4-4f0f-ac3c-43160bd9f7c5.gif)
+![Bullet_Physics_PandaPickAndPlaceAndThrowTrained](https://user-images.githubusercontent.com/92969814/221651495-50b2c340-bdf4-4f0f-ac3c-43160bd9f7c5.gif)    
 
-Trained env for `PandaPickAndPlaceAndMove-v1`:
+Mean reward: 
+                             
+<img src="https://user-images.githubusercontent.com/92969814/221976736-8bb401b0-1bcf-413b-9210-22be2e66df8e.png" data-canonical-src="https://user-images.githubusercontent.com/92969814/221976736-8bb401b0-1bcf-413b-9210-22be2e66df8e.png" width="50%" />
+
+Success rate: 
+
+<img src="https://user-images.githubusercontent.com/92969814/221976917-7b4a0e63-bd2b-4e53-ad4a-4aef5b7cab0d.png" data-canonical-src="https://user-images.githubusercontent.com/92969814/221976917-7b4a0e63-bd2b-4e53-ad4a-4aef5b7cab0d.png" width="50%" />
+
+
+
+
+
+#### Trained env for `PandaPickAndPlaceAndMove-v1`:
 
 ![Bullet_Physics_PandaPickAndPlaceAndMoveTrained](https://user-images.githubusercontent.com/92969814/221654873-74b91669-07c7-419e-af76-c18a4cdd8ff6.gif)
+
+Mean reward:
+
+<img src="https://user-images.githubusercontent.com/92969814/221974043-54f852b3-4c67-42e1-a42b-86595c7b630a.png" data-canonical-src="https://user-images.githubusercontent.com/92969814/221974043-54f852b3-4c67-42e1-a42b-86595c7b630a.png" width="50%" />
+
+Success rate:
+
+<img src="https://user-images.githubusercontent.com/92969814/221976224-1755d64f-a4a1-47b3-b8ef-b35d676b099b.png" data-canonical-src="https://user-images.githubusercontent.com/92969814/221976224-1755d64f-a4a1-47b3-b8ef-b35d676b099b.png" width="50%" />
+
+
 
 
 
