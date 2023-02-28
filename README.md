@@ -103,7 +103,7 @@ This custom environment was used for `PandaPickAndPlaceAndMove-v1` and `PandaPic
 
 #### Trained env for `PandaPickAndPlaceAndThrow-v1`:          
 
-![Bullet_Physics_PandaPickAndPlaceAndThrowTrained](https://user-images.githubusercontent.com/92969814/221651495-50b2c340-bdf4-4f0f-ac3c-43160bd9f7c5.gif)    
+![PandaPickAndPlaceAndThrow-v1-trained](https://user-images.githubusercontent.com/7521492/221982843-faf17026-16b2-43c0-a2f0-6275f077b3d7.gif)
 
 Mean reward: 
                              
@@ -119,7 +119,8 @@ Success rate:
 
 #### Trained env for `PandaPickAndPlaceAndMove-v1`:
 
-![Bullet_Physics_PandaPickAndPlaceAndMoveTrained](https://user-images.githubusercontent.com/92969814/221654873-74b91669-07c7-419e-af76-c18a4cdd8ff6.gif)
+![PandaPickAndPlaceAndMove-v1-trained](https://user-images.githubusercontent.com/7521492/221982916-968006d2-319b-466b-941b-6235f874ac71.gif)
+
 
 Mean reward:
 
