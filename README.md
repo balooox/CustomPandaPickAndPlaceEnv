@@ -33,6 +33,15 @@ Because of the fast developing paste in the reinforcement learning sector the sa
 `docs/requirements.yaml` file. 
 Run conda `conda create --name <env> --file <this file>`
 
+### Step by step installation guide
+
+1. git clone https://github.com/balooox/CustomPandaPickAndPlaceEnv.git
+2. use Anaconda:
+    1. Under Windows: open the anaconda promt (anaconda3)
+    2. Under Linux: make sure anaconda is integrated into the cli
+3. conda env create --file ./docs/environment.yml
+4. conda activate custom_panda_env
+
 ## Usage
 
 ### showcase.py 
