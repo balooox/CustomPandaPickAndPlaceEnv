@@ -30,7 +30,7 @@ pip install sb3-contrib
 ```
 
 Because of the fast developing paste in the reinforcement learning sector the safer way is to use the
-`docs/requirements.txt` file. 
+`docs/requirements.yaml` file. 
 Run conda `conda create --name <env> --file <this file>`
 
 ## Usage
